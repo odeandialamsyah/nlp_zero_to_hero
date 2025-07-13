@@ -5,4 +5,4 @@
 3. Ekstraksi Fitur Lanjutan
 4. Pemodelan Topik
 5. Analisis Sentimen
-6. Pengenalan Entitas Bernama (Named Entity Recognition/NER)
+6. NyobaBert
